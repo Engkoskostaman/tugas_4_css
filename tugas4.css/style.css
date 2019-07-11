@@ -1,0 +1,13 @@
+.judul{
+  font-size:40px;
+}
+#button{
+    font-size:30px;
+    background-color:white;
+    color:orange !important;
+}
+.button{
+  font-size:30px;
+  background-color:white;
+  color:red;
+}
